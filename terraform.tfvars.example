@@ -1,0 +1,4 @@
+aws_region = [your region]
+project_name = [your project name]
+github_username = [your github username]
+github_token = [your github token]
